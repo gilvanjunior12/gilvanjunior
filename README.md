@@ -2,7 +2,11 @@
 
 **`Estudante de Desenvolvimento WEB`**
 
-Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano. Atualmente, estou cursando Sistemas de Informação na Universidade Tiradentes - UNIT. Sou apaixonado por tecnologia e constantemente em busca de aprendizado. Estou trilhando meu caminho para me tornar um desenvolvedor back-end.
+Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
+
+Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, estou trilhando meu caminho para me tornar um desenvolvedor back-end, focado em construir soluções eficientes e bem estruturadas.
+
+
 
 <p align="left">
     <a href="https://www.instagram.com/juniormoore_/" target="_blank">

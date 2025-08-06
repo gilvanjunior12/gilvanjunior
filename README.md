@@ -6,8 +6,6 @@ Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Conclu�
 
 Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, estou trilhando meu caminho para me tornar um desenvolvedor back-end, focado em construir soluções eficientes e bem estruturadas.
 
-
-
 <p align="left">
     <a href="https://www.instagram.com/juniormoore_/" target="_blank">
         <img 
@@ -51,13 +49,6 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
       src="https://custom-icon-badges.demolab.com/github/stars/gilvanjunior12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
       alt="Estrelas no GitHub"
       title="Estrelas recebidas no GitHub"
-    />
-  </a>
-  <a href="https://github.com/gilvanjunior12?tab=followers">
-    <img 
-      src="https://custom-icon-badges.demolab.com/github/followers/gilvanjunior12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
-      alt="Seguidores no GitHub"
-      title="Seguidores no GitHub"
     />
   </a>
 </p>
